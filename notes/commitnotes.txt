@@ -1,16 +1,33 @@
+STEPS TO COMMIT TO YOUR PERSONAL GIT FORK
 You make changes local repo
 - Add those files
 - Commit those files
 - Push those files to your FORKED version
 
+HOW TO PUSH YOUR FORK TO THE MASTER BRANCH WITH A PULL REQUEST
 From the forked version, we can make a PR
 - click the [New Pull Request] button
 
+GET SOMEONE TO MERGE YOUR PULL REQUEST
 Ideally someone OTHER than you will review and merge the PR
 
+GET THE LATEST CODE UPDATE
 Once that is merged, EVERYONE on the team should do a "git pull upstream master"
 
-Commit Rules for the Week
+
+
+
+
+
+Commit Rules of Thumb
+- Someone other than yourself will review and merge your Pull Request
+- Communicate/post into slack channel anytime you push an update and do a PR so that everyone else will have an update
+- Daily commit schedule
+	- commit before lunch
+	- pull after lunch
+	- commit before EOD
+	- pull at EOD or in the morningf
+
 
 Group Organization
 - Daily morning scrum
