@@ -1,0 +1,18 @@
+You make changes local repo
+- Add those files
+- Commit those files
+- Push those files to your FORKED version
+
+From the forked version, we can make a PR
+- click the [New Pull Request] button
+
+Ideally someone OTHER than you will review and merge the PR
+
+Once that is merged, EVERYONE on the team should do a "git pull upstream master"
+
+Commit Rules for the Week
+
+Group Organization
+- Daily morning scrum
+- Afternoon check-in
+- Before EOD check-in
